@@ -3,7 +3,6 @@
 ## 💼 Perfil Profissional
 - ☕ Desenvolvedor Back-end Java
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Unicid
-- 🔍 Em busca da primeira oportunidade como desenvolvedor
 - 🌱 Aprendendo Spring Boot e boas práticas de back-end
 
 ## 🚀 Habilidades
@@ -30,4 +29,4 @@
 
 <br>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. 😊
+Fique à vontade para entrar em contato comigo para discutir colaborações ou projetos interessantes.
