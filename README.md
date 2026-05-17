@@ -10,9 +10,6 @@
 ### 👨‍💻 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
 ---
-### 🧩 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
----
 ### 🗄️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ---
